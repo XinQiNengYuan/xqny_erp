@@ -1,6 +1,6 @@
 ## xqny
 
-xqny app
+The custom ERP system of xqny
 
 #### License
 

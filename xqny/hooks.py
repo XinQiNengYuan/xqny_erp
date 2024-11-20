@@ -1,8 +1,8 @@
 app_name = "xqny"
 app_title = "xqny"
-app_publisher = "xqny"
-app_description = "xqny app"
-app_email = "a@a.com"
+app_publisher = "LiHeYu"
+app_description = "The custom ERP system of xqny"
+app_email = "2274138081@qq.com"
 app_license = "mit"
 
 # Apps
